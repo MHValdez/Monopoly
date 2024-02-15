@@ -1,4 +1,6 @@
 # Monopoly
-Simplified version of Monopoly implemented with Python classes
+Simplified version of Monopoly implemented with Python classes in [RealEstateGame.py](https://github.com/MHValdez/Monopoly/blob/main/RealEstateGame.py)
 
-See [Halfway Progress Report - valdemar.pdf](https://github.com/MHValdez/Monopoly/blob/main/Halfway%20Progress%20Report%20-%20valdemar.pdf) for detailed specifications
+Per course requirements, classes and methods have *extremely* verbose docstrings. They fully explain the specifications of the game.
+
+Unit test provided in [RealEstateGameTester.py](https://github.com/MHValdez/Monopoly/blob/main/RealEstateGameTester.py)
